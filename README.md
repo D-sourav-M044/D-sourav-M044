@@ -1,10 +1,9 @@
 ### Hi there, I'm Sourav 👋
 
-## Currently I'm a Student, Developer, and Program Learner!!
+## Currently I'm working as a Software Devlopment Engineer !!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning AWS, React.
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Video Games.
 
 <!---### Spotify Playing 🎧--->
